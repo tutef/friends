@@ -1,0 +1,14 @@
+.footer-content {
+    display: flex;
+    min-height: 20vh;  
+    flex-wrap: wrap; 
+    .footer-content__copyright{ 
+        align-self: flex-end;
+        background-color: #cf9ffc;
+        color: #3b1352;
+        font-family: monospace;
+        line-height: 3;
+        text-align: center;
+        width: 100%;
+    }
+}

@@ -133,8 +133,7 @@ label {
 .fondo_creators {
   background-image: url(../media/creators.jpg);
   background-position: center;
-  height: 850px;
-  background-size: cover;
+  height: 1000px;
 }
 
 .creators {
@@ -645,7 +644,7 @@ label {
 .fondoEpisodes {
   background-image: url(../media/Central_Perk_set.jpg);
   background-position: bottom;
-  height: 800px;
+  height: 1000px;
   background-size: cover;
   margin-bottom: 6rem;
 }

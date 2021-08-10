@@ -5,11 +5,15 @@
   .nav-item{
     font-family: monospace;
     padding: 1rem;
-    color: #d8cce3;
   }
   .logo {
     height: 100px;
   }
+}
+.active a{
+  color: #fad4f9!important;
+  border-style: ridge;
+  
 }
 
 

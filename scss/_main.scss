@@ -114,7 +114,9 @@ label {
 .fondo_creators {
     background-image: url(../media/creators.jpg);
     background-position: center;
-    height: 1000px;
+    background-size: cover;
+    width: 100%;
+    height: 30vh
 }
 .creators {
     width: 100%;

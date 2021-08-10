@@ -728,6 +728,10 @@ label {
   .fondo_creators {
     height: 800px;
   }
+
+  .characters_title {
+    height: 800px;
+  }
 }
 @media all and (max-width: 1100px) {
   .image-creators {
@@ -1013,6 +1017,10 @@ label {
   .fondo_creators {
     height: 500px;
   }
+
+  .characters_title {
+    height: 350px;
+  }
 }
 @media (min-width: 1200px) {
   .fondoEpisodes {
@@ -1021,6 +1029,10 @@ label {
   }
 
   .fondo_creators {
+    height: 80vh;
+  }
+
+  .characters_title {
     height: 80vh;
   }
 
@@ -1041,6 +1053,10 @@ label {
 @media (min-width: 2400px) {
   .fondo_creators {
     height: 1500px;
+  }
+
+  .characters_title {
+    height: 1800px;
   }
 }
 .footer-content {

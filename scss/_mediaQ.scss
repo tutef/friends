@@ -2,6 +2,9 @@
     .fondo_creators {
         height: 800px;
     }
+    .characters_title{
+        height: 800px;
+    }
 }
 @media all and (max-width: 1100px){
     .image-creators{
@@ -180,6 +183,8 @@
 @media (max-width: 650px){
     .fondo_creators {
         height: 500px; 
+    }.characters_title{
+        height: 350px;
     }
 }
 @media (min-width: 1200px){
@@ -189,6 +194,9 @@
     }
     .fondo_creators {
         height: 80vh; 
+    }
+    .characters_title{
+        height: 80vh;
     }
     .footer-content {
         margin-top: 50px;
@@ -206,5 +214,9 @@
 @media (min-width: 2400px){
     .fondo_creators {
         height: 1500px;
+    }
+    .characters_title{
+        height: 1800px;
+        
     }
 }

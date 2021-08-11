@@ -109,10 +109,39 @@ body {
   margin: auto;
 }
 
-.button {
+.btn-primary {
   color: #28034d;
   background-color: #cf9ffc;
   border: none;
+}
+
+.btn-primary:hover {
+  color: #cf9ffc;
+  background-color: #28034d;
+  border: none;
+}
+
+.btn-primary:focus {
+  color: #28034d;
+  background-color: #cf9ffc;
+  border-color: #28034d;
+  box-shadow: none;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #28034d;
+  background-color: #cf9ffc;
+  border-color: none;
+}
+
+.modal-header {
+  color: #28034d;
+  background-color: #cf9ffc;
+}
+
+.modal-body {
+  background-color: #28034d;
+  color: #cf9ffc;
 }
 
 label {
